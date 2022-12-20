@@ -1246,11 +1246,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   margin-left: 10px;
 }
 
-.vision15-link{
+.perso-link{
   color: rgb(204,176,89);
 
 }
-.vision15-link:hover{
+.perso-link:hover{
   color: rgb(255, 193, 0);
   text-decoration: underline;
 }

@@ -1,0 +1,24 @@
+.title-project{
+    color: var(--orange-yellow-crayola);
+    margin-bottom: 20px;
+    text-align: center;
+}
+.presentation{
+    color: var(--orange-yellow-crayola);
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.part-projet{
+    font-size: 20px;
+    text-decoration: underline;
+}
+.prjt-img{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+.img-separator-prjt{
+    margin: 10px 0;
+}
