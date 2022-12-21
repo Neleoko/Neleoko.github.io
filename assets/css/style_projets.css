@@ -22,3 +22,14 @@
 .img-separator-prjt{
     margin: 10px 0;
 }
+@media (max-width: 1023px){
+    .prjt-img{
+        width: 500px;
+    }
+}
+
+@media (max-width: 767px){
+    .prjt-img{
+        width: 350px;
+    }
+}
