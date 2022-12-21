@@ -1246,7 +1246,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .perso-link{
-  color: rgb(204,176,89);
+  color: var(--orange-yellow-crayola);
+  text-decoration: underline;
 
 }
 .perso-link:hover{
