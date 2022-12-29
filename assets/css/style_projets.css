@@ -36,18 +36,28 @@
     margin: 10px 0;
 }
 @media (max-width: 1023px){
-    .prjt-img{
+    .prjt-img,
+    .prjt-img:hover {
         width: 500px;
     }
+    .notransition{
+        transition: none;
+    }
+    .prjt-img-struct:hover{
+        width: 276px;
+    }
+
 }
 
 @media (max-width: 767px){
-    .prjt-img{
+    .prjt-img,
+    .prjt-img:hover{
         width: 350px;
     }
 }
 @media (max-width: 450px){
-    .prjt-img{
+    .prjt-img,
+    .prjt-img:hover{
         width: 300px;
     }
 }
