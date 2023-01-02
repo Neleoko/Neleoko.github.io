@@ -1238,12 +1238,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 .tw-lg{
   width: 100px;
 }
-.ort-lg {
-  width: 32px;
-  height: 32px;
-  border-radius: 20px;
-  margin-left: 10px;
-}
 
 .perso-link{
   color: var(--orange-yellow-crayola);
