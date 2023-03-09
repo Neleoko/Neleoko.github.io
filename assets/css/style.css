@@ -1242,7 +1242,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .perso-link{
   color: var(--orange-yellow-crayola);
   text-decoration: underline;
-
+  display: inline-block;
 }
 .perso-link:hover{
   color: rgb(255, 193, 0);
