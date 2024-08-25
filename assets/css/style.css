@@ -1230,12 +1230,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  align-items: center;
 }
 
 .img-logo {
   width:25%;
 }
-.tw-lg{
+.rct-lg{
   width: 100px;
 }
 
